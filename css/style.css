@@ -83,6 +83,9 @@ header {
   text-align: center;
   padding: 10px;
 }
+header a:link, header a:visited, header a:hover, header a:active {
+  color: #093033;
+}
 header h1 {
   font-family: "Square Peg", cursive;
   font-size: 90px;
