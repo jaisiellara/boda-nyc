@@ -296,7 +296,6 @@ footer h2 {
 .history h1 {
   font-size: 50px;
   text-align: center;
-  font-family: "Playfair Display SC", serif;
   /*Media Queries*/
 }
 @media only screen and (max-width: 986px) {
