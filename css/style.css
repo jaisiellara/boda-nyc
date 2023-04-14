@@ -159,16 +159,18 @@ body {
 .portada {
   display: flex;
   flex-direction: row;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   justify-content: center;
   align-items: center;
   background-image: url(../imgs/flow.jpeg);
 }
 @media only screen and (max-width: 986px) {
   .portada {
-    height: 480px;
+    height: 430px;
     margin-top: 10px;
+    background-repeat: no-repeat;
+    background-position: top;
   }
 }
 .portada img {
